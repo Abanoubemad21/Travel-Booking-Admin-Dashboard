@@ -1,5 +1,5 @@
 import { Component, inject, Input } from '@angular/core';
-import { Router } from 'express';
+import { Router } from '@angular/router';
 import { Auth } from '../../../core/services/auth';
 import { RouterModule } from "@angular/router";
 
